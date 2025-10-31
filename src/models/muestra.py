@@ -9,9 +9,9 @@ while True:
             if pre in [0,1,2,3,4,5]:
                 break
             else:
-                print("Please enter a number between 0 and 5.")
+                print("por favor ingresa un numero entre 0 y 5.")
         except ValueError:
-            print("Please enter a valid integer.")
+            print("por favor ingresa un numero entero valido.")
             continue
     if pre == 0:
         break

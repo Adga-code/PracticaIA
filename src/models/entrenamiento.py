@@ -25,9 +25,9 @@ while True:
             if res in [0,1,2,3,4,5]:
                 break
             else:
-                print("Please enter a number between 0 and 5.")
+                print("Ingrese un numero entre 0 y 5.")
         except ValueError:
-            print("Please enter a valid integer.")
+            print("Ingrese un numero entero valido.")
             continue
     if res == 0:
         break

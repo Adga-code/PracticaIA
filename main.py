@@ -6,21 +6,20 @@ from src.services import *
 
 
 functions.s()
-print("Welcome to the Application!")
 while True:
     while True:
         try:
-            print("Select mode: 1 for Training, 2 for Sample, 0 to Exit")
+            print("elige modo: 1 para entrenar, 2 para 'hablar', 0 para salir")
             opc = int(input("---> "))
             functions.s()
             if opc in [1,2, 0]:
                 break
             else:
                 functions.s()
-                print("Please enter 1 or 2.")
+                print("Ingresa una opcion valida.")
         except ValueError:
             functions.s()
-            print("Please enter a valid integer.")
+            print("Ingresa un numero entero valido.")
     if opc == 1:
         import src.models.entrenamiento as entrenamiento
     elif opc == 2:
