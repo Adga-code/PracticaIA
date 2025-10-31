@@ -1,0 +1,3 @@
+pip install pymongo
+
+pymongo==4.7.1
