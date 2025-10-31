@@ -3,7 +3,7 @@ from pymongo import MongoClient
 client = MongoClient("mongodb://localhost:27017/")  #? conexion a la base de datos
 
 global db
-db = client["mydatabase"]                           #? seleccion de la base de datos    
+db = client["pruebaIA"]                           #? seleccion de la base de datos    
 
 def getCollection(colect):
     return db[colect]

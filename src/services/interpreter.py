@@ -1,10 +1,10 @@
 from src.database import connect
 from random import choice, randint  #! INVESTIGAR CHOICE
 
-def respond_to_input(user_input):
+def respond_to_input(user_input, coleccion="entrenamiento"):
     response = {1:1, 2:2, 3:3, 4:4, 5:5}  # Example response mapping
     # Example function to process user input
-    data = connect.getSome(connect.getCollection("datosBasicos"), {"input": user_input})
+    data = connect.getSome(connect.getCollection(coleccion), {"input": user_input})
 
     choices = [item['output'] for item in data]
     if choices:
@@ -13,7 +13,7 @@ def respond_to_input(user_input):
         return "No valid response found."
 
 
-def train_model(ia_input, user_output):
+def train_model(ia_input, user_output, coleccion="entrenamiento"):
     # Example function to train a model
     data = {"output": user_output, "input": ia_input}
-    connect.insert(connect.getCollection("entrenamiento"), data)
+    connect.insert(connect.getCollection(coleccion), data)
