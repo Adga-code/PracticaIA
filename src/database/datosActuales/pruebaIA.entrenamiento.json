@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "6905015928dad06a1173c8ef"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905015b28dad06a1173c8f0"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905015d28dad06a1173c8f1"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905015f28dad06a1173c8f2"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905016128dad06a1173c8f3"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905016328dad06a1173c8f4"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905016528dad06a1173c8f5"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905016728dad06a1173c8f6"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905016928dad06a1173c8f7"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905016b28dad06a1173c8f8"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905016d28dad06a1173c8f9"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905016f28dad06a1173c8fa"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905017128dad06a1173c8fb"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905017328dad06a1173c8fc"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905017528dad06a1173c8fd"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905017828dad06a1173c8fe"
+  },
+  "output": 3,
+  "input": 3
+},
+{
+  "_id": {
+    "$oid": "6905017a28dad06a1173c8ff"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905017c28dad06a1173c900"
+  },
+  "output": 3,
+  "input": 3
+},
+{
+  "_id": {
+    "$oid": "6905017e28dad06a1173c901"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905018028dad06a1173c902"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905018228dad06a1173c903"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905018428dad06a1173c904"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905018628dad06a1173c905"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905018828dad06a1173c906"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905018a28dad06a1173c907"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905018c28dad06a1173c908"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905018e28dad06a1173c909"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905019028dad06a1173c90a"
+  },
+  "output": 4,
+  "input": 2
+},
+{
+  "_id": {
+    "$oid": "6905019228dad06a1173c90b"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905019428dad06a1173c90c"
+  },
+  "output": 5,
+  "input": 1
+},
+{
+  "_id": {
+    "$oid": "6905019628dad06a1173c90d"
+  },
+  "output": 3,
+  "input": 3
+},
+{
+  "_id": {
+    "$oid": "6905019828dad06a1173c90e"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905019a28dad06a1173c90f"
+  },
+  "output": 2,
+  "input": 4
+},
+{
+  "_id": {
+    "$oid": "6905019c28dad06a1173c910"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "6905019e28dad06a1173c911"
+  },
+  "output": 3,
+  "input": 3
+},
+{
+  "_id": {
+    "$oid": "690501a028dad06a1173c912"
+  },
+  "output": 1,
+  "input": 5
+},
+{
+  "_id": {
+    "$oid": "690501a228dad06a1173c913"
+  },
+  "output": 2,
+  "input": 4
+}]
