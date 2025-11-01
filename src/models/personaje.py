@@ -1,34 +1,40 @@
 from random import randint
 
-class Personaje:
+class Pokemon:
     def __init__(self):
-        self.vida = 10
+        self.captura = 100          #* 1-10 se captura a menor numero mas facil capturar
+        self.huida = 100            #* 1-3 huye el poke a menor numero mas facil huir
 
-    def atacar():
-        posibilidad = randint(1, 10)
-        if posibilidad in [1,2]:
-            return 0  # Falló
-        elif posibilidad in [3,4,5,6,7,8]:
-            return 2  # Golpe débil
-        elif posibilidad in [9,10]:
-            return 3  # Golpe critico
+    def pokeball(self):
+        #todo intento de captura
+        intento = randint(1, self.captura)
+        if intento > 10:
+            return False
+        else:
+            return True
+        
+    def roca(self):
+        #todo lanzar roca, aumenta posibilidades de captura y posibilidades de huida
+        if self.captura > 100:
+            self.captura = 50
+            self.huida = 50
+        else:
+            self.captura = round(self.captura/2)
+            self.huida = round(self.huida/2)
     
-    def defender():
-        posibilidad = randint(1, 10)
-        if posibilidad in [1,2]:
-            return 0  # Recibe todo el daño
-        elif posibilidad in [3,4,5,6,7,8]:
-            return 1  # Bloqueo parcial
-        elif posibilidad in [9,10]:
-            return 2  # Bloqueo fuerte
-    
-    def recibir_danio(self, ataque):
-        self.vida -= ataque
-        return self.vida
-    
-    def huir():
-        posibilidad = randint(1, 10)
-        if posibilidad in [1,2]:
-            return False  # Falló en huir
-        elif posibilidad in [3,4,5,6,7,8,9,10]:
-            return True  # Huyó con éxito
+    def sebo(self):
+        #todo lanzar sebo, disminuye posibilidades de captura y posibilidades de huida
+        if self.huida < 100:
+            self.huida = 200
+            self.captura = 200
+        else:
+            self.huida *= 2
+            self.captura *= 2
+
+    def huir(self):
+        #todo intento de huir por parte del pokemon
+        intento = randint(1,self.huida)
+        if intento > 3:
+            return True
+        else:
+            return False
