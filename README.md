@@ -18,3 +18,5 @@ mi-proyecto/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
+Modificacion del interpreter
