@@ -10,9 +10,10 @@ def fin(acciones, consecuencias, coleccion="entrenamiento"):
 
     connect.insert(connect.getCollection(coleccion), data)
 
-def accionar(acciones, coleccion):
+def accionar(acciones, coleccion="entrenamiento"):
     #todo toma un decisión segun los datos pasados
-
+    if randint(1,10) < 3:
+        return choice(["pokeball","roca","sebo"])
 
     datos = connect.getSome(connect.getCollection(coleccion),{ "acciones": { "$all": acciones } }) #? da solo los datos que contengan las mismas acciones
     
@@ -23,12 +24,14 @@ def accionar(acciones, coleccion):
         #? recorre la lista y limpea los datos que no empiecen con las mismas acciones
         if x["acciones"][0:len(acciones)] != acciones:
             continue #! Si no empieza igual a las acciones tomadas no lo considera
-        elif x["consecuencias"] == "fracaso":
+        elif x["consecuencias"] == "fracaso" or x["consecuencias"]== "huida":
             continue #! Si la lista lleva a fracaso no lo considera
         opciones.append({"paso" : x["acciones"][len(acciones)], "tiempo" : len(x["acciones"])})
     
 
     if opciones == []:
+        print(acciones)
+        print("NO HAY OPCIONES")
         #? si no hay rutas tomadas anteriormente similares a la actual, hace algo al azar
         return choice(["pokeball","roca","sebo"])
     
@@ -42,6 +45,7 @@ def accionar(acciones, coleccion):
             choices = [ddv["paso"]] #! Si toma menos tiempo que el resto, empieza de nuevo las opciones
         else:
             choices.append(ddv["paso"]) #! Si es de la misma calidad que el resto de las opciones anteriores la considera
-    
+    print("TOMO ESTE CAMINO")
+    print(choices)
     return choice(choices)
         
