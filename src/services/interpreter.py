@@ -2,23 +2,23 @@ from src.database import connect
 from random import choice, randint
 import os
 
-def fin(acciones, consecuencias, coleccion="entrenamiento"):
+def fin(acciones, consecuencias, fecha, tipo="practica", coleccion="estadistica"):
     #todo envia los datos del intento para futuras referencias
     data ={
         "acciones" : acciones,
         "consecuencias" : consecuencias,
-        "estado" : "practica",
-        "fecha" : "2025/11/08"
+        "tipo" : tipo,
+        "fecha" : fecha
     }
     with open("src/services/historico.txt", "a") as f:
         f.write(f"{consecuencias}\n")
-        f.write(f"2025/11/08\n")
+        f.write(f"fecha\n")
         f.write("==========================================\n\n\n")
     connect.insert(connect.getCollection(coleccion), data)
 
-def accionar(acciones, coleccion="entrenamiento"):
+def accionar(acciones, tipo="practica",coleccion="estadistica"):
     #todo toma un decisión segun los datos pasados
-    if randint(1,10) < 3:
+    if tipo=="practica" and randint(1,10) < 3:
         with open("src/services/historico.txt", "a") as f:
             random = choice(["pokeball","roca","sebo"])
             f.write("Uso al azar de 2 en 10\n")

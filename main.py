@@ -17,7 +17,20 @@ while True:
     
 match opc:
     case 1:
+        while True:
+            try:
+                print("Cuantos intentos? (-1 para infinitos)")
+                intent = int(input("---> "))
+                f.s()
+                if intent < -1:
+                    print("Ingrese un valor valido")
+                    continue
+                break
+            except:
+                f.s()
+                print("Ingrese un valor valido")
+
         with open("src/services/historico.txt", "w") as f:
             f.write("==========================================\n")
-        codigo()
+        codigo("2025/11/08","practica",intent)
         f.s()

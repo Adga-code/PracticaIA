@@ -3,15 +3,22 @@ from src.services.interpreter import *
 from time import sleep
 
 
-def codigo():
+def codigo(fecha, tipo, intentos=-1):
+    cond = False
     while True:
+        if cond:
+            break
         pokemon = Pokemon()
         acciones = []
         captura = False
+        print("POKEMON SALVAJE")
         while True:
-
-            print("POKEMON SALVAJE")
-            hacer = accionar(acciones)
+            if intentos!=-1:
+                intentos-=1
+                if intentos == 0:
+                    cond = True
+                    break
+            hacer = accionar(acciones,tipo)
             print(f"---> {hacer}")
             sleep(2)
             print("---------------------------------------")
@@ -21,12 +28,12 @@ def codigo():
                     if captura:
                         print("POKEMON ATRAPADO")
                         acciones.append(hacer)
-                        fin(acciones,"exito")
+                        fin(acciones,"exito",fecha,tipo)
                         break
                     else:
                         print("Fallo de captura")
                         acciones.append(hacer)
-                        fin(acciones,"fracaso")
+                        fin(acciones,"fracaso",fecha,tipo)
                         acciones = []
                 case "roca":
                     pokemon.roca()
@@ -46,7 +53,7 @@ def codigo():
                         acciones.append(hacer)
             if pokemon.huir():
                 print("El pokemon escapo")
-                fin(acciones,"huida")
+                fin(acciones,"huida",fecha,tipo)
                 break
             
         

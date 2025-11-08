@@ -1,492 +1,6 @@
 ==========================================
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
 Uso al azar por no tener historico
 sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-sebo
-------------------------------
-Uso al azar por no tener historico
-pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-sebo
-------------------------------
-Uso al azar por no tener historico
-pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
 ------------------------------
 Uso al azar por no tener historico
 roca
@@ -494,132 +8,33 @@ roca
 Uso al azar de 2 en 10
 pokeball
 ------------------------------
-exito
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
+Uso al azar por no tener historico
+sebo
 ------------------------------
 Uso al azar de 2 en 10
 sebo
 ------------------------------
-Uso al azar de 2 en 10
-pokeball
+Uso al azar por no tener historico
+roca
 ------------------------------
-fracaso
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
+Uso al azar por no tener historico
 pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
 ==========================================
 
 
@@ -630,561 +45,209 @@ Uso al azar por no tener historico
 roca
 ------------------------------
 []
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-pokeball
+Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
 ==========================================
 
 
 Uso al azar de 2 en 10
 roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-sebo
 ------------------------------
 Uso al azar por no tener historico
 roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
 ------------------------------
 Uso al azar por no tener historico
 pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
 Uso al azar de 2 en 10
 pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 Uso al azar de 2 en 10
-sebo
+pokeball
 ------------------------------
+fracaso
+fecha
+==========================================
+
+
 Uso al azar de 2 en 10
 roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
 ------------------------------
 Uso al azar por no tener historico
-pokeball
+roca
+------------------------------
+huida
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-sebo
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-pokeball
+Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+sebo
 ------------------------------
 Uso al azar de 2 en 10
 sebo
 ------------------------------
 Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
 pokeball
 ------------------------------
-exito
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
-exito
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
+Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-pokeball
+Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1195,263 +258,154 @@ Uso al azar por no tener historico
 roca
 ------------------------------
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 Uso al azar de 2 en 10
 roca
 ------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-pokeball
-------------------------------
-exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-Uso al azar de 2 en 10
+Uso al azar por no tener historico
 pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
 ------------------------------
 huida
-2025/11/08
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+exito
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+sebo
+------------------------------
+Uso al azar por no tener historico
+pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
+------------------------------
+Uso al azar por no tener historico
+sebo
+------------------------------
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
 ==========================================
 
 
@@ -1459,51 +413,346 @@ Uso al azar de 2 en 10
 pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+exito
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
 Uso al azar de 2 en 10
 sebo
 ------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
 Uso al azar de 2 en 10
+pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
 sebo
 ------------------------------
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
+------------------------------
+Uso al azar por no tener historico
+sebo
+------------------------------
+Uso al azar de 2 en 10
+sebo
 ------------------------------
 Uso al azar de 2 en 10
 roca
 ------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
 []
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
 ------------------------------
-huida
-2025/11/08
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+exito
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+pokeball
+------------------------------
+exito
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+exito
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
+pokeball
+------------------------------
+exito
+fecha
 ==========================================
 
 
@@ -1511,33 +760,20 @@ Uso al azar de 2 en 10
 pokeball
 ------------------------------
 fracaso
-2025/11/08
+fecha
 ==========================================
 
 
-[]
-Estos caminos tiene roca
-------------------------------
 Uso al azar de 2 en 10
-sebo
+pokeball
 ------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
-Estos caminos tiene pokeball
-------------------------------
-exito
-2025/11/08
+fracaso
+fecha
+==========================================
+
+
+huida
+fecha
 ==========================================
 
 
@@ -1547,29 +783,11 @@ sebo
 Uso al azar por no tener historico
 roca
 ------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
 Uso al azar de 2 en 10
-sebo
+pokeball
 ------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
@@ -1577,71 +795,48 @@ huida
 Estos caminos tiene roca
 ------------------------------
 ['roca']
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
 Estos caminos tiene roca
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
+['roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
 []
 Estos caminos tiene roca
 ------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
 ['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
 []
 Estos caminos tiene roca
 ------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
 ['roca']
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
+fracaso
+fecha
+==========================================
+
+
 huida
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1649,112 +844,10 @@ huida
 Estos caminos tiene roca
 ------------------------------
 ['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-sebo
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1762,19 +855,10 @@ huida
 Estos caminos tiene roca
 ------------------------------
 ['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1782,54 +866,61 @@ exito
 Estos caminos tiene roca
 ------------------------------
 ['roca']
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
+==========================================
+
+
+[]
 Estos caminos tiene roca
 ------------------------------
 huida
-2025/11/08
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene roca
+------------------------------
+huida
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene roca
+------------------------------
+huida
+fecha
+==========================================
+
+
+[]
+Estos caminos tiene roca
+------------------------------
+['roca']
+Estos caminos tiene pokeball
+------------------------------
+fracaso
+fecha
 ==========================================
 
 
 Uso al azar de 2 en 10
-roca
+pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+exito
+fecha
 ==========================================
 
 
 Uso al azar de 2 en 10
-roca
+pokeball
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
@@ -1839,23 +930,8 @@ sebo
 Uso al azar por no tener historico
 sebo
 ------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
 huida
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1863,19 +939,10 @@ huida
 Estos caminos tiene roca
 ------------------------------
 ['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca', 'roca']
 Estos caminos tiene pokeball
 ------------------------------
 exito
-2025/11/08
+fecha
 ==========================================
 
 
@@ -1883,51 +950,22 @@ exito
 Estos caminos tiene roca
 ------------------------------
 ['roca']
-Estos caminos tiene roca
+Estos caminos tiene pokeball
 ------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================
-
-
-Uso al azar de 2 en 10
-roca
-------------------------------
-Uso al azar de 2 en 10
-roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
+fracaso
+fecha
 ==========================================
 
 
 []
 Estos caminos tiene roca
 ------------------------------
-['roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca']
-Estos caminos tiene roca
-------------------------------
-['roca', 'roca', 'roca']
-Estos caminos tiene roca
-------------------------------
 Uso al azar de 2 en 10
+roca
+------------------------------
+Uso al azar por no tener historico
+roca
+------------------------------
+Uso al azar por no tener historico
 sebo
 ------------------------------
-[]
-Estos caminos tiene roca
-------------------------------
-huida
-2025/11/08
-==========================================

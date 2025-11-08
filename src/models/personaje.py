@@ -34,8 +34,6 @@ class Pokemon:
     def huir(self):
         #todo intento de huir por parte del pokemon
         intento = randint(1,self.ratioHuida)
-        print(self.ratioHuida)
-        print(intento)
         if intento < 4:
             return True
         else:
