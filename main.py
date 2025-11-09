@@ -30,7 +30,7 @@ match opc:
                 f.s()
                 print("Ingrese un valor valido")
 
-        with open("src/services/historico.txt", "w") as f:
-            f.write("==========================================\n")
+        with open("src/services/historico.txt", "w") as fi:
+            fi.write("==========================================\n")
         codigo("2025/11/08","practica",intent)
         f.s()

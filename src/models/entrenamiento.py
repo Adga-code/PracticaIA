@@ -20,7 +20,7 @@ def codigo(fecha, tipo, intentos=-1):
                     break
             hacer = accionar(acciones,tipo)
             print(f"---> {hacer}")
-            sleep(2)
+            sleep(1)
             print("---------------------------------------")
             match hacer:
                 case "pokeball":
